@@ -1,2 +1,1 @@
-# nodejs_tutorial
-Node JS apps
+#My project's README
